@@ -11,5 +11,6 @@ def nyc_pigeon_organizer(data)
       new_hash[name][key] << attribute.to_s
     end
   end
+end
 new_hash
 end
